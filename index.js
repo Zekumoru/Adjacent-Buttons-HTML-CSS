@@ -1,1 +1,2 @@
-console.log("hello git");
+let greeting = "hello git";
+console.log(greeting);
