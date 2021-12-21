@@ -1,4 +1,4 @@
 // TODO: implement utils
 function doSomething() {
-  // stub!
+    console.log("I'm doing something...");
 }
