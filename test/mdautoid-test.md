@@ -21,7 +21,7 @@ That aside, there will surely be notes when they are necessary.
   - [Summary](#summary)
 
 
-## Course 1 Week 1 (C1w1) ------------------------------------------------------
+## Course 1 Week 1 (C1w1) -
 ### C#
 Started with basic input/output and some math functions.  
 
